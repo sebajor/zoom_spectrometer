@@ -1,0 +1,11 @@
+TODO:
+
+-Test the DDS of Xilinx and the one from casper
+  ---->are they programmable in real time?
+
+-Use brams as downconverters. There is no problem 
+ to upload new values.
+
+-Test the CIC filter of Xilinx (We need the compensation filter?)
+
+
